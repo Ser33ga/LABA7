@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\plays\source\repos\LABA7\Source.c(45,2): warning C4098: main: функция типа "void", возвращающая значение
+  LABA7.vcxproj -> C:\Users\plays\source\repos\LABA7\x64\Debug\LABA7.exe
